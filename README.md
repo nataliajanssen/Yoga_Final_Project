@@ -12,3 +12,5 @@ NAMASTE
 
 ![](yoga2.png)
 
+![](asanas2.png)
+
