@@ -10,3 +10,5 @@ NAMASTE
 ![](yogapicture.png)
 
 
+![](yoga2.png)
+
