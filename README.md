@@ -7,7 +7,7 @@ The objective of this project is to create a model capable to recognize an asana
 
 NAMASTE
 
-![](asanas.png)
+![](asanas2.png)
 
 
 ![](yoga2.png)
